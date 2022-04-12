@@ -1,0 +1,18 @@
+{
+    "title": "Dart Tutorial", 
+    "description": "Way to parse Json", 
+    "author": {
+        "name": "bezkoder", 
+        "age": 30
+    }, 
+    "tags": [
+        {
+            "name": "dart", 
+            "quantity": 12
+        }, 
+        {
+            "name": "flutter", 
+            "quantity": 25
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxZDgzODhiY2NkOWIyMDAzMWQ4YTZlMyIsImlhdCI6MTY0NjI1MzgwOSwiZXhwIjoxNjQ2MjY0NjA5fQ.…",
+"refresh_token" :"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxZDgzODhiY2NkOWIyMDAzMWQ4YTZlMyIsImlhdCI6MTY0NjI1MzgwOX0.Sqao5eJ3AcMwD6Et7oz5JAJ…",
+"user":{
+    "name":{"first":"Louis",
+    "last":"Jean"},
+    "favoriteRestaurants":[],
+        "favoriteFoods":[],
+        "roles":["ROLE_RESTAURANT_ADMIN"],
+        "validated" : true,
+        "paymentCards" : [],
+        "tokenNavigator" :
+            [
+                "fQFdM1fPDWo28Il8eGSwmH:APA91bEcP8MarwxPFvcNmco03tywFSO2xHrftabb8BQwhYZoYtMjwJBDAPU5mzPUhyNGagfQ537FOoAaJhaWK0hVS5Ks_2Eq1Q6nxlHMxp1U791C7_Ew26hWKxqzSkZ__AWO6jei8wJo",
+                "drZoWrUIa1lZDI6LgWyNBg:APA91bFfUdKhX0N6W3Bw11fig1j-E0xBeowK1SxDjwVbZN_Xpl0zEtlpoqlszyhzQBh-8SKNTA5DCvSDaI8kAa6M3VsjEIlOvw5c4dnmp_S2yMorenNXDaDJRUA8zJscKQMAgNBrVqQS",
+                "..."
+            ],
+        "_id" : "61d8388bccd9b20031d8a6e3",
+        "email" : "tahiana@tahiana.com",
+        "phoneNumber" : "+261346178875",
+        "createdAt" : "2022-01-07T12:56:43.199Z",
+        "updatedAt" : "2022-02-25T16:48:46.737Z",
+        "__v" : 0}
+    }
